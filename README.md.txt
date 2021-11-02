@@ -1,0 +1,1 @@
+Ejecutar con springtoolSuit habiendo instalado la base de datos h2
